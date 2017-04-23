@@ -1,5 +1,0 @@
-Component: main
-Origin: runtimeco
-Label: apt repository
-Architecture: source
-Description: Mynewt debian package repo

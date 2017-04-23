@@ -1,7 +1,0 @@
-origin: runtimeco
-Label: apt repository
-Codename: mynewt
-Architectures: amd64 source
-Components: main
-Description: Mynewt debian package repo
-SignWith:  79774AF3DCE49E6E
