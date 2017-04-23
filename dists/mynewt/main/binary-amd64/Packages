@@ -1,0 +1,32 @@
+Package: newt
+Version: 1.0.0-1
+Architecture: amd64
+Maintainer: W C <freelancewc8888@gmail.com>
+Installed-Size: 6768
+Depends: libc6 (>= 2.4)
+Priority: optional
+Section: main
+Filename: pool/main/n/newt/newt_1.0.0-1_amd64.deb
+Size: 1870454
+SHA256: 04c4fbd12fc638584a1e5684f4b55c59648d10d9ee92dcf48f9e31990125161e
+SHA1: 9f5167b00620647fa4a05a51f58c19826bb706e4
+MD5sum: 90761330a369a565b4ab8df77845c005
+Description: packaging tool
+
+Package: newtmgr
+Version: 1.0.0-1
+Architecture: amd64
+Maintainer: W C <freelancewc8888@gmail.com>
+Installed-Size: 11215
+Depends: libc6 (>= 2.4)
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/n/newtmgr/newtmgr_1.0.0-1_amd64.deb
+Size: 2310872
+SHA256: 83f3ba15a1c7a2344bcef7807d8874a06391032edeea1da7b1f70c91936b3f44
+SHA1: 54d48827497f28f92b90b0411b245289ffbf8b98
+MD5sum: 3ef83a8b6e37ff68cb000bf0e60e777b
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+

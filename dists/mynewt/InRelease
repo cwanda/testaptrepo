@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: runtimeco
+Label: apt repository
+Codename: mynewt
+Date: Sun, 23 Apr 2017 21:54:17 UTC
+Architectures: amd64
+Components: main
+Description: Mynewt debian package repo
+MD5Sum:
+ af8edd312469b4aa09889fb2246a35bd 986 main/binary-amd64/Packages
+ eec373998894acf1c7b8cf397076dfc7 549 main/binary-amd64/Packages.gz
+ 7806142b5c4d954b11d1bedc61f03757 116 main/binary-amd64/Release
+ 766b83057dfa8da421548ac99852cd44 2109 main/source/Sources
+ 807a5e4636faaac82755d7fab996c0da 887 main/source/Sources.gz
+ baab1ba89bbfacb35f97887c624f1df7 117 main/source/Release
+SHA1:
+ 35031a4f065c6683d856c46068c9793972267734 986 main/binary-amd64/Packages
+ 4f6e40cc66b347da044ad4d0fef6274c81137564 549 main/binary-amd64/Packages.gz
+ 57ace7506340aa1e8acc0f6634a26f28db837f47 116 main/binary-amd64/Release
+ 986f180bbd8c471cfdca4c0eec76bdcac3111313 2109 main/source/Sources
+ ff8c1e96749f88d1aee608ee50e66cfedd9dec38 887 main/source/Sources.gz
+ c86eaac5e8c1aaf4ca86b9b58864f6f9c2c525eb 117 main/source/Release
+SHA256:
+ f34536cffa40e7e1daa1a86e1814211d204b44d1ddf1f896a2b7008e0487d8f6 986 main/binary-amd64/Packages
+ d5bf512bf5fa5505e19a0dc62d101c8f5fdc6a77601a120c9e41d721e5b51458 549 main/binary-amd64/Packages.gz
+ 6e2d2a147751ca2e693e0e9e9314bfda9aeac9f3b6f7c87b7381c449bd41896b 116 main/binary-amd64/Release
+ 66d878a05468014a6d65acfedf6f98bf214ccfb209d3868e25abbd05f1b1b659 2109 main/source/Sources
+ d6c34e13fcc05e24fb0f345666dfff7ed5f5368d0f7fe50d6b1b0ec308009b01 887 main/source/Sources.gz
+ aa6ebf617411b32a909948fdcf6a98c9772965de5f878ac54a08871cd11c4c3d 117 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQEcBAEBCAAGBQJY/SKJAAoJEHl3SvPc5J5uuMcH/jN8S2P4XtncEyJcxnKXM1In
+yr0+b/qI1SKuQiljBOqaBnHx55JMa00JYiF6tHWde38bMb30x7O+YmBB4dEZ8H88
+pSEju2jFk0y0MKethHXhwTaFRXA83FZNE85P2GXU008H9vm8iVuB6lv8vHDYYmHS
+VjNCDSuoNAhZSunpqbhqaxCOV+zwthl654qJZ+1xUZtlyVR9avitENwAQa1+ODiq
+QSEQz5amOFM167fNkUr8yZn2x0d7xrzYAhHtuyBAOWng12m7heT3mkQQP8y7so+m
+OyJAFP1DzWbDHsnokDCUhfhkyUrkBVAYVp/FD+azTHDLmYe/4FLlQsxKEj61mqY=
+=jYpP
+-----END PGP SIGNATURE-----
