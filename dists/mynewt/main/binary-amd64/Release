@@ -1,0 +1,5 @@
+Component: main
+Origin: runtimeco
+Label: apt repository
+Architecture: amd64
+Description: Mynewt debian package repo
